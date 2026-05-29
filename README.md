@@ -3,15 +3,15 @@
 > A gallery of interactive dashboards built in **Tableau** — spanning consumer/beauty analytics, education demographics, and sales performance.
 > **Click any preview image to open the live, interactive dashboard on Tableau Public.**
 
-**Author:** Donald Su · [Tableau Public profile]([https://public.tableau.com/app/profile/YOUR_PROFILE](https://public.tableau.com/app/profile/donald.su4060/vizzes)) <!-- TODO: paste your profile URL -->
+**Author:** Donald Su · [Tableau Public profile](https://public.tableau.com/app/profile/donald.su4060/vizzes)
 
 <p align="center">
-  <a href="https://public.tableau.com/app/profile/YOUR_PROFILE">
-    <img src="images/Menu.png" width="860" alt="Overview of all Tableau Public dashboards in this portfolio">
+  <a href="https://public.tableau.com/app/profile/donald.su4060/vizzes">
+    <img src="Menu.png" width="860" alt="Overview of all Tableau Public dashboards in this portfolio">
   </a>
 </p>
 
-> ℹ️ **Setup:** put the five PNGs in an `images/` folder and replace every `YOUR_*_LINK` with the dashboard's **Share → Copy Link** URL from Tableau Public.
+> ℹ️ **Setup:** replace every `YOUR_*_LINK` below with the dashboard's **Share → Copy Link** URL from Tableau Public.
 
 ---
 
@@ -30,7 +30,7 @@
 ### Sephora Satisfaction Signals
 
 <a href="YOUR_SEPHORA_SIGNAL_LINK">
-  <img src="images/Sephora_Satisfaction_Signall.png" width="860" alt="Sephora satisfaction dashboard: satisfaction drivers, overall signal strength, ingredient ratings, and signal by skin type">
+  <img src="Sephora_Satisfaction_Signall.png" width="860" alt="Sephora satisfaction dashboard: satisfaction drivers, overall signal strength, ingredient ratings, and signal by skin type">
 </a>
 
 A four-panel dashboard decomposing **what actually drives satisfaction** in skincare reviews — built from the Sephora reviews dataset.
@@ -51,7 +51,7 @@ A four-panel dashboard decomposing **what actually drives satisfaction** in skin
 ### Comprehensive ELL Demographic & Educational Analytics
 
 <a href="YOUR_ELL_COMPREHENSIVE_LINK">
-  <img src="images/Comprehensive_ELL_Demographic_and_Educational_Analytics_Dashboard.png" width="860" alt="Comprehensive ELL demographic dashboard: KPIs, race-ratio pie, school-wise race breakdown, and NY State map">
+  <img src="Comprehensive%20ELL%20Demographic%20and%20Educational%20Analytics%20Dashboard.png" width="860" alt="Comprehensive ELL demographic dashboard: KPIs, race-ratio pie, school-wise race breakdown, and NY State map">
 </a>
 
 A single-pane overview of English Language Learner (ELL) demographics across **100 schools / 32,770 enrolled students** in New York State.
@@ -63,7 +63,7 @@ A single-pane overview of English Language Learner (ELL) demographics across **1
 ### Student Enrollment by Grade Level & School District
 
 <a href="YOUR_ELL_STUDENT_ANALYTICS_LINK">
-  <img src="images/Student_Enrollment_by_Grade_Level_and_School_District.png" width="860" alt="Stacked bar chart of student enrollment by grade band across NYC and NY State school districts">
+  <img src="Student%20Enrollment%20by%20Grade%20Level%20and%20School%20District.png" width="860" alt="Stacked bar chart of student enrollment by grade band across NYC and NY State school districts">
 </a>
 
 Enrollment by **grade band** (Elementary / Middle / High) across NYC geographic and NY State districts, sorted so the largest districts surface first (e.g., NYC Geog Dist #24 – Queens leads with 7,284 elementary students).
@@ -77,7 +77,7 @@ Enrollment by **grade band** (Elementary / Middle / High) across NYC geographic 
 ### Regional Sales & Profit (SI 624)
 
 <a href="YOUR_SI624_LINK">
-  <img src="images/SI_624_Class_exercise.png" width="860" alt="Sales and profit dashboard: choropleth of North America by state with year-over-year sales bars">
+  <img src="SI_624_Class_exercise.png" width="860" alt="Sales and profit dashboard: choropleth of North America by state with year-over-year sales bars">
 </a>
 
 Course project (SI 624) pairing a **profit choropleth** of North American states/provinces with **year-over-year sales** bars.
