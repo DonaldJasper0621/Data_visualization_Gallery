@@ -3,7 +3,7 @@
 > A gallery of interactive dashboards built in **Tableau** — spanning consumer/beauty analytics, education demographics, and sales performance.
 > **Click any preview image to open the live, interactive dashboard on Tableau Public.**
 
-**Author:** Donald Su · [Tableau Public profile](https://public.tableau.com/app/profile/YOUR_PROFILE) <!-- TODO: paste your profile URL -->
+**Author:** Donald Su · [Tableau Public profile]([https://public.tableau.com/app/profile/YOUR_PROFILE](https://public.tableau.com/app/profile/donald.su4060/vizzes)) <!-- TODO: paste your profile URL -->
 
 <p align="center">
   <a href="https://public.tableau.com/app/profile/YOUR_PROFILE">
