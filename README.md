@@ -24,6 +24,29 @@
 - [📈 Sales Performance — Regional Sales & Profit (SI 624)](#-sales-performance)
 
 ---
+## 🌎 Environmental & EHS Analytics
+
+### Environmental Release Analytics Dashboard — U.S. EPA Toxics Release Inventory (TRI)
+
+<a href="YOUR_POWER_BI_OR_GITHUB_LINK">
+  <img src="Environmental Release Analytics Dashboard — U.S. EPA Toxics Release Inventory (TRI).png" width="860" alt="Power BI environmental release analytics dashboard showing TRI toxic release KPIs, top chemicals, carcinogen share, and year-over-year release trends">
+</a>
+
+A Power BI dashboard analyzing industrial toxic chemical releases reported through the U.S. EPA Toxics Release Inventory (TRI), focused on California facilities from 2019–2023.
+
+The dashboard was designed from an Environmental Health & Safety (EHS) perspective: instead of only visualizing release volume, it identifies which chemicals, facilities, and release pathways should be prioritized for mitigation.
+
+- **192M lbs of total releases** were reported across the analysis period.
+- **1,426 facilities** and **227 chemicals** were included in the dashboard.
+- **Carcinogenic chemicals accounted for 17.4%** of total releases.
+- **Nitrate compounds were the largest single chemical contributor**, representing roughly one-sixth of all release volume.
+- Year-over-year releases were volatile: **-15.0% in 2020**, **+15.1% in 2021**, **+14.5% in 2022**, and **-16.1% in 2023**.
+
+> **Business angle:** helps EHS and operations teams move from raw EPA reporting data to prioritized action — identifying the highest-impact chemicals, monitoring release trends, and focusing reduction efforts where they matter most.
+>
+> **Skills:** Power BI, Power Query, DAX, time intelligence, star schema modeling, KPI design, environmental analytics, EHS dashboard storytelling.
+
+---
 
 ## 💄 Beauty & Consumer Analytics
 
