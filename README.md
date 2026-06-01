@@ -1,4 +1,4 @@
-# 📊 Tableau Data Visualization Portfolio
+# 📊 Data Visualization Portfolio
 
 > A gallery of interactive dashboards built in **Tableau** — spanning consumer/beauty analytics, education demographics, and sales performance.
 > **Click any preview image to open the live, interactive dashboard on Tableau Public.**
