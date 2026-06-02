@@ -29,7 +29,7 @@
 ### Environmental Release Analytics Dashboard — U.S. EPA Toxics Release Inventory (TRI)
 
 <a href="YOUR_POWER_BI_OR_GITHUB_LINK">
-  <img src="Environmental Release Analytics Dashboard — U.S. EPA Toxics Release Inventory (TRI).png" width="860" alt="Power BI environmental release analytics dashboard showing TRI toxic release KPIs, top chemicals, carcinogen share, and year-over-year release trends">
+  <img src="New_Environmental Release Analytics Dashboard — U.S. EPA Toxics Release Inventory (TRI).png" width="860" alt="Power BI environmental release analytics dashboard showing TRI toxic release KPIs, top chemicals, carcinogen share, and year-over-year release trends">
 </a>
 
 A Power BI dashboard analyzing industrial toxic chemical releases reported through the U.S. EPA Toxics Release Inventory (TRI), focused on California facilities from 2019–2023.
